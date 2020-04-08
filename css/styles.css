@@ -4,8 +4,8 @@ body {
   text-align: center;
   font-family: 'Helvetica', 'Arial', sans-serif;
   padding-top: 35px;
-  padding-right: 20px;
-  padding-bottom: 0;
+  padding-right: 5%;
+  padding-bottom: 35px;
   padding-left: 5%; }
   body h1 {
     color: white;
@@ -23,18 +23,14 @@ body {
     color: white;
     margin-top: 10px;
     margin-bottom: 0px; }
-  body h5 {
-    color: white;
-    text-align: center;
-    margin-top: 10px;
-    margin-bottom: 0px; }
   body p {
     color: white;
     text-align: justify;
     padding-right: 30px; }
   body ul {
     list-style-type: circle;
-    text-align: justify; }
+    text-align: justify;
+    padding-right: 5%; }
   body a {
     text-decoration: underline; }
     body a:hover {
